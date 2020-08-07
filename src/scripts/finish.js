@@ -6,7 +6,7 @@ function Finish() {
   return (
     <div className="output game-over">
     <h1 className="congratulate text-center">Поздравляем!</h1>
-    <p className="results text-center">Вы прошли викторину и набрали {Ball} из 30 возможных баллов</p>
+    <p className="results text-center">Вы прошли викторину и набрали {Ball} из 30 возможных баллов.</p>
     <hr className="line"></hr>
     <button className="btn btn-next btn-game-over" onClick = {Restart}>Попробовать еще раз!</button>
     </div>
