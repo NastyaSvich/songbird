@@ -1,0 +1,40 @@
+div:active, div:focus,
+button:active, button:focus,
+audio:active, audio:focus{
+  outline: none !important;
+}
+
+audio::-moz-focus-inner, button::-moz-focus-inner, div::-moz-focus-inner {
+  border: 0 !important;
+}
+
+.rhap_container {
+    background-color: inherit !important;
+    box-shadow: none !important;
+}
+
+.rhap_time {
+    color: white !important;
+}
+
+.rhap_download-progress {
+    background-color: rgb(115, 115, 115) !important;
+}
+
+.rhap_progress-filled, .rhap_volume-bar {
+    background: linear-gradient(to left, red, #b3e79d) !important;
+}
+
+.rhap_volume-indicator, .rhap_progress-indicator {
+    background: lightgray !important;
+}
+
+path{
+  color: lightgray;
+}
+
+
+/*--------------------------Simple Player---------------------*/
+.react-audio-player{
+width: 100%;
+}
