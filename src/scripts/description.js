@@ -11,7 +11,7 @@ function Description() {
     <div className="bird-details card">
     <p className="instruction" >
     <span>Послушайте плеер.</span>
-    <span>Выберите заставку из сериала или мультика.</span>
+    <span>Выберите заставку из сериала или мультика!</span>
     </p>
     <div className="card-body">
     <img className="bird-image" src={Img} alt={Name}></img>
