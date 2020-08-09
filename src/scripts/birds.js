@@ -144,7 +144,7 @@ const birdsData = [
       id: 6,
       name: 'Возвращение Мухтара',
       species: '2004',
-      description: 'Стрижа можно увидеть практически в каждом уголке планеты. Они обитают как в лесных зонах, так и на открытых местностях. Живут стрижи крупными стаями. Большие колонии этих птиц можно увидеть в городах или на прибрежных скалах.',
+      description: 'История о приключениях сотрудников внутренних органов и их верного соратника, служебного пса по кличке Мухтар. Этой сплоченной команде предстоит выполнять самую разную работу: от разоблачения банды наркоторговцев до поиска пропавших вещей.',
       image: 'https://github.com/NastyaSvich/audio/blob/master/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/hqdefault.jpg?raw=true',
       audio: 'https://raw.githubusercontent.com/NastyaSvich/audio/master/Audio/popularRus/%D0%BC%D1%83%D1%85%D1%82%D0%B0%D1%80.mp3'
     }
@@ -244,7 +244,7 @@ const birdsData = [
       id: 6,
       name: 'Фиксики',
       species: '2010',
-      description: 'Полет филина бесшумный, зрение очень острое. Эти особенности делают птицу непревзойденным ночным охотником. У филина нет естественных врагов, ни один зверь не охотится на взрослых птиц. А вот на птенцов нападают лисы и волки.',
+      description: 'Фиксики ухаживают за техникой изнутри, чистят её, смазывают, устраняют мелкие поломки. Они — умелые и добросовестные мастера. Фиксики привыкли скрываться от людей, но есть они повсюду: в компьютерах, холодильниках, телевизорах...',
       image: 'https://github.com/NastyaSvich/audio/blob/master/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/fixiki-2018-800x445.jpg?raw=true',
       audio: 'https://raw.githubusercontent.com/NastyaSvich/audio/master/Audio/cartoonRus/%D0%A4%D0%B8%D0%BA%D1%81%D0%B8%D0%BF%D0%B5%D0%BB%D0%BA%D0%B8_-_%D0%9F%D0%B5%D1%81%D0%B5%D0%BD%D0%BA%D0%B8_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%B5%D1%82%D0%B5%D0%B9_-_%D0%9A%D1%82%D0%BE_%D1%82%D0%B0%D0%BA%D0%B8%D0%B5_%D1%84%D0%B8%D0%BA%D1%81%D0%B8%D0%BA%D0%B8_(new)___%D0%9F%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BA%D0%B8.mp3'
     }
@@ -294,7 +294,7 @@ const birdsData = [
       id: 6,
       name: 'Следствие вели',
       species: '2006',
-      description: 'авторский цикл документальных передач телеканала «НТВ» о самых громких преступлениях, совершённых в СССР. Повествование сопровождается рассказами о повседневной жизни жителей СССР. Ведущий — Леонид Каневский.',
+      description: 'Авторский цикл документальных передач телеканала «НТВ» о самых громких преступлениях, совершённых в СССР. Повествование сопровождается рассказами о повседневной жизни жителей СССР. Ведущий — Леонид Каневский.',
       image: 'https://github.com/NastyaSvich/audio/blob/master/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/sledstvie_veli.jpg?raw=true',
       audio: 'https://raw.githubusercontent.com/NastyaSvich/audio/master/Audio/show/%D0%A1%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B8%D0%B5_%D0%92%D0%B5%D0%BB%D0%B8_%D1%81_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%BC_%D0%9A%D0%B0%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%BC_-_%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D0%A2%D0%B5%D0%BC%D0%B0_(_%D0%BE%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%2C_%D1%83%D0%BA%D0%BE%D1%80%D0%BE%D1%87%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_).mp3'
     }
