@@ -263,6 +263,7 @@ h4, .h4 {
 }
 
 .li-btn {
+  pointer-events: none;
   display: inline-block;
   width: 10px;
   height: 10px;
