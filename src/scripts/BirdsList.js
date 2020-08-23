@@ -69,6 +69,8 @@ restart(){
   document.querySelector('.row').style.display = "flex";
   document.querySelector('.bird-tittle').style.display = "flex";
   document.querySelector('.game-over').style.display = "none";
+  let firstElem = document.querySelectorAll('.questions li');
+  firstElem[0].classList.add('active');
   sessionStorage.schet = 0;
   this.setState({
     soundTittle: birdsData[0][Sort].audio,
@@ -78,6 +80,7 @@ restart(){
 
 
 newLevel(e){
+  let prov=0;
   console.clear();
   document.querySelector('.right div audio').pause();
   Sort = Random();
@@ -92,6 +95,7 @@ newLevel(e){
    document.querySelector('.bird-tittle').style.display = "none";
    document.querySelector('.game-over').style.display = "block";
    level = -1;
+   prov = 1;
  }
   }
   sessionStorage.flag = 0;
@@ -101,7 +105,9 @@ newLevel(e){
   arra.forEach(el => el.classList.remove('active'));
   if(level<5){
   level = level + 1;
+  if(prov !== 1){
   arra[level].classList.add('active');
+  }
 }
 let instruction = document.querySelector('.instruction');
 let card = document.querySelector('.card-body');
